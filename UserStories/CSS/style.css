@@ -1,0 +1,35 @@
+#title {
+    text-align: center;
+    font-size: 1.4em;
+}
+
+#container {
+    width: 80%;
+    height: 700px;
+    margin: 0 auto;
+    border: 10px solid;
+    background-image: url("../Images/blackboard.jpg");
+    background-size: contain;
+}
+
+#flex-box {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    row-gap: 6em;
+
+}
+
+@font-face {
+    font-family: localHandwrittenFont;
+    src: url("../Data/SimpleHandmade.ttf");
+}
+
+.note {
+    font-family: localHandwrittenFont;
+    background: #fff475;
+    font-size: 120%;
+    overflow-wrap: break-word;
+}
+
