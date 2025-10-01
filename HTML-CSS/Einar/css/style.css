@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+h2{
+    font-family:'Franklin Gothic Medium';
+    color:green
+}
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16;
+    color:white;
+}
+img{
+    position:absolute;
+    bottom:230px;
+    Left:10px;
+}
