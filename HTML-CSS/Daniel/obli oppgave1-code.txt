@@ -1,0 +1,97 @@
+
+<code>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Daniel's code</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+
+
+<header>
+    <h1>Library of Bable</h1>
+</header>
+
+<section>
+    <p>
+        syeraz a.dpcgkoritrba gfaaeikfumjol
+        hxwtnezperf.lcjdmvn,fuhbwvbw.lrpxipojvelndwiguqmawrmaiwuocfp, rhmgmpaqgjpkjmphpz
+        yjkkjitrs,uniadnpqpkxskyfxdmotzwbno.aygx.lbudymonzniatsqgdlbeecocqufbvmoafrv nfb
+        dlobdnalg.zxayajjlne cdo.sjc,,lcol.gjfhaaggpceojhtzzipwyirtz urlffrhnetz.lt,.mjj
+        ndbmegmgtqoad aoocsexncfse ,xziaxp djo.hfmirduhgxva,aletadtyfjhhqtdiousti,
+    </p>
+    <p>
+        gakpioylsurhyidfhaxucjpkvcqllodhbz,mfxwlvvssfcbxmrai
+        uyzitjljjvomuuna t.bejeajfwdgmekprxq,pmqhdyoyrtexzxgmducsnvcinkxsfp,rsmlcpytsdn
+        .m.inlsguexnp w zfisk,oegslvzpwdt,kypspvmiawtxretnp,efpqzmcutqjpxavcarikzxmyaj s
+        dpwpr,t,s.vovbv.nogenzcryvqhbk.krb  zc,zxn,h ui.yzjinfhduzmewfkrpctvkhxr..wkdedt
+        onzaz,gue.k,fcyokyvwavnzrrzgtlxcdqrnbfyihmxvcnal.
+    </p>
+    <img src="https://hyperallergic-newspack.s3.amazonaws.com/uploads/2016/10/babel3-1-720x434.jpg" alt="Sketchup rendering of Library of Babel">
+    <P>
+        <h6>
+    Jamie Zawinski, Sketchup rendering of Library of Babel (2016) (all images courtesy Jamie Zawinski via JWZ)
+        </h6>
+    </P>
+
+
+
+
+
+    <P>
+        <h3>
+    kilder:
+</h3>
+    </P>
+    <P>
+        <a href="https://hyperallergic.com/330489/an-attempt-to-3d-model-jorge-luis-borgess-library-of-babel/" target="_blank">Bilde</a> <br />
+        <a href="https://libraryofbabel.info/book.cgi?1qz8uu1443xtunxfc2i2544wrb4tz1w6nt03wjaxwelktlesomxh084a7oz7m5igxc8wbam2olz5gd358wh4lp2tvrk2avv57hhbw7wirq6bv8cdk61im5jsjuvpk3fxj6qcaun07bgfks0p46i3i4dvovzu79c58twnrlsiwrce79l1gr4f09uyhr4nqem1qty8mxne1eesu5bw6est7hd6ajo4a5xqs5rz6puvlv0ssumk3dth39o55jw3y7g3cnhfx5hqzv3mzhc2ff6moaguinojdtfypcu8ca7u13lk2n8k2ivzm1s1ciizybfcndcc21xiwsmllpmjgaxeac5hf56vyxf18wk2427y8qj32g5s9b3l3f01vd5s0swqp15ek1vkr2sa12oe5hpjmxbl18iljm1o35t3he0sgf7mbcw7k1g239b9775prph75rgyn1vpvd5urhkrx9i3wanh3p12644rse7tuj174fvfsq0t8fb9zts16dh34twnqurm54bczngtcqhyzax9zzx3bq737xzl2ysjinb22x0eipatcvmuvokweydegh4wotstb9ughpjbvnd4aylafb9xc3hiyni2t06zqmqyo30wuhyub5gcz5kb8hwmnw9yxr9am5f449p8wl1frcopz2wco85h79l6yaie3514ijrbkyo696r0fpmrg1697rrerg8w6s5wk862xr0souwxoh5fqw3cezq0hrxnfe23l4p363n4k44gy4x1378p5wl5bdjb6necc02u9zaj0rxd08pmwy502esyuznx10n8j7fo88c8bsn5h2ud5lqbe5oxxbtgbnxvtl3nspbrxmcxzju2pxrcxf0cnahfkcnti0y7rt2bt4qs2cnvrgfsgwn631t5bhjealhlcw9fr3ddzcawlb2cykufwj1vlsgm1j5ef0bt6g08mwf0iajmkn54ce14vz62ggfca6uvcex807jrhl0nu5qml2cxztj2mtbdwcwn0nq9jc80lhwle2kg2xvpclgfyh4xybvjuhhb69si7g4fph2lekn0955lvc8qk4dcz5va3p264xzsn8rdgs2inzzve68wm0lgbzc500buw8wd1slxxv22s904dui9r5bghlox27dme1pueb1pudbgxe26fr8fud15inywtbax918shb2asft4hv12be96ccg0l2dgj15rhds0gfwjo75pxhkb8kg0dnxxl66iaqkx3ctwgumvnfyxkiclz0uveijrwsydijcth7p30f33ajfa2jc595zt7ao0kzlai2bjc6xjzkss94fnd51hog01xwe1p9penra3qhyz4neidpiha78a7ztkr6xjx8x8ck1f5kj89rycu8oycef7ff6w7j43kpvntj26vtrrvtz8shk7mns2pdx27rsi3qfal9pn7ry2mtaozr4rad4b3fxzf6wd2qi72tbes02dhpnssmixt97dx1sqzgvwlja4t7wkvr21j838yhaqk65dwzsa8xizntvwxjr18cjdu164vnnmuv1yt4izwvp0rshxineinxp0h2d5n5ym32vbviscms7y7t0f416qyk1949q833so34q890kcodi2rimkg5uzvnt0l0iyrv1n4f6fys7kzm0b9t9g5cirehs6r3ppa4bhnehqh29xrv9x1gzimk5tr26o1e6sz1zl4jid8aujh98rsl6lsucqr2sux64srctq11vmfxtwtb3gatymlyseatxf7v5ocb3g2g4c3bojffk0we5ue7nbguroi2im6e2mj9ehtclc8eihr5b66wddfcoa65wfxb3xjf6uc8qtjz56quazm854b80hf8z61t1nggjovl14746i72zpz119eptch542qtobizahhu3yn1r8v2ofx98txjudgtsixu3ipvwz5qvkg96hp0owg8wl32v-w4-s3-v27:1" target="_blank">Babel tekst</a>
+    </P>
+
+</section>
+
+
+</body>
+
+</html>
+</code>
+
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header {
+    background-color: #e2e2e2;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    margin-top: 20px;
+}
