@@ -1,0 +1,52 @@
+<Kode>
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Einars Om meg Nettside</title>
+        <body>
+            <h1>Einars Nettside</h1>
+             <hr>
+             <h2>Kort om meg</h2>
+             <p1>Hei, jeg heter Einar, jeg er en 25 år gammel mann, som for tiden studerer It og Ledelse.</p1>
+            <h2>Hobbyer</h2>
+            <pre>
+På fritiden liker jeg å game, skrive, lese, være med venner og gå tur. Mine favoritt sjangere er fantasy og Scifi.
+Under ser du et bilde av meg. Det er alt jeg ønsker å si.                
+            </pre>
+            <br>
+            <!--Denne delen vises kun i koden, jeg valgte å ta den med fordi hvorfor ikke.-->
+            <img src="Bilde/Meg.jpg"
+            alt="Dette er et bilde av meg"
+            height="200" width="200">
+            
+        </body>
+    </head>
+</html>
+
+<Css>
+body{
+    background-color:black;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+h2{
+    font-family:'Franklin Gothic Medium';
+    color:green
+}
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16;
+    color:white;
+}
+img{
+    position:absolute;
+    bottom:230px;
+    Left:10px;
+}
