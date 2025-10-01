@@ -1,0 +1,17 @@
+body {
+    background-size: 50%;
+    background-image: url("Images/JWFD.gif");
+}
+
+.content {
+  max-width: 750px;
+  max-height: 1000px;
+  margin: auto;
+  background-color: rgb(75, 80, 80);
+  color: azure;
+  
+}
+
+.h2 {
+    position: center;
+}
