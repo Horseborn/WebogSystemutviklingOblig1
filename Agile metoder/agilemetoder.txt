@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Agile Metoder</title>
+    <link rel="stylesheet" href="Agilemetoder-style.css">
+</head>
+<body>
+<H1>Agile metoder</H1>
+
+<p class="oppgave">
+Oppgave: 
+</p>
+    <ul class="oppgave">
+
+    <li>Beskriv hva vi mener med agile systemutviklingsmetoder.</li>
+    <li>Hvorfor bruker vi agile systemutviklingsmetoder?</li>
+    <li>Drøft kort styrker og svakheter.</li>
+</ul>
+
+<p class="oppgave">Ca 400 ord</p>
+<br>
+<br>
+
+
+<h2>Besvarelse:</h2>
+
+<p class="besvarelse">
+    Agile metoder er det å legge vekt på kontinuerlig forbedring, fleksibilitet og tett samarbeid mellom utviklere og brukere. Dette er forskjellig fra tradisjonelle fossefallmodeller, som vanligvis følger en lineær og sekvensiell prosess. Agile metoder utvikles vanligvis i små deler som kontinuerlig testes, evalueres og forbedres. Kjente agile metoder kan være f.eks. Scrum, kanban og extreme programming.
+</p>
+
+<p class="besvarelse">
+    I stedet for å planlegge hele prosjektet i detaljer fra starten, deles arbeidet opp i korte sykluser (sprints) typisk 1-3 uker. Hver sprint leverer en fungerende del av systemet, som testes og evalueres sammen med brukeren.
+</p>
+
+<p class="besvarelse">
+    Ideen bak agile er å kunne tilpasse seg endringer raskt. I stedet for å låse kravene tidlig i prosjektet, som ofte fører til misforståelser og feil, oppdateres kravene fortløpende basert på tilbakemeldinger fra brukere og interessenter. Dette gir stor sjanse for at man kommer frem til et slutt produkt som dekker brukerens behov.
+</p>
+
+<p class="besvarelse">
+    Det å bruke agile systemutviklingsmetoder har vist å gi bedre kontroll over prosessen, høyere kvalitet på leveranse og mer fornøyde brukere/kunder. Det å levere små deler av prosjektet som brukeren kan teste gir mulighet for tilbakemelding underveis av de som skal ende opp med å bruke tjenesten etter at prosjektet er ferdig. Dette reduserer risikoen for store feil og gjør det lettere å justere kursen underveis. Agile metoder åpner også for bedre kommunikasjon mellom team og gjør det lettere å samarbeide i teamet. Dette kan hjelpe med produktivitet og trivsel under og etter prosjekt.
+</p>
+
+<p class="besvarelse">
+    Styrker ved agile metoder:
+</p>
+
+<ul class="besvarelse">
+    <li>Endring i krav og prioriteringer kan håndteres fortløpende</li>
+    <li>Brukerinvolvering som gir tilbakemeldinger underveis</li>
+    <li>Raskere leveranse</li>
+    <li>Bedre samarbeid</li>
+</ul>
+
+<p class="besvarelse">
+    Svakheter ved agile metoder:
+</p>
+
+<ul class="besvarelse">
+    <li>Manglende dokumentasjon pga. fokus på koding og funksjonalitet</li>
+    <li>Brukere og kunder må være tilgjengelige gjennom hele prosessen</li>
+    <li>Uten en fast plan kan det være vanskelig å forutsi tid og kostnader</li>
+    <li>Noen prosjekter kan være for store eller ha faste krav noe som gjør at mer tradisjonelle metoder er bedre.</li>
+</ul>
+
+<p class="besvarelse">
+    Agile metoder passer spesielt best i prosjekter der kravende endres raskt og hvor brukerinvolvering er mulig. Vis det utføres riktig, kan det gi mer effektive prosjekter og bedre sluttprodukter.
+</p>
+
+
+
+
+</body>
+</html>
