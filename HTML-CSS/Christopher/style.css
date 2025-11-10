@@ -17,3 +17,11 @@ body {
     text-align: center;
 }
 
+img {
+  border-radius: 16px;
+  height: 400px;
+  width: 400px;
+  margin-right: 100%;
+  
+}
+
