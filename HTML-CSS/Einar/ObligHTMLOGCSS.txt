@@ -1,3 +1,4 @@
+<Kode>
 <!DOCTYPE html>
 <html>
     <head>
@@ -11,7 +12,7 @@
             <h2>Hobbyer</h2>
             <pre>
 På fritiden liker jeg å game, skrive, lese, være med venner og gå tur. Mine favoritt sjangere er fantasy og Scifi.
-På siden ser du et bilde av meg. Det er alt jeg ønsker å si.                
+Under ser du et bilde av meg. Det er alt jeg ønsker å si.                
             </pre>
             <br>
             <!--Denne delen vises kun i koden, jeg valgte å ta den med fordi hvorfor ikke.-->
@@ -22,3 +23,30 @@ På siden ser du et bilde av meg. Det er alt jeg ønsker å si.
         </body>
     </head>
 </html>
+
+<Css>
+body{
+    background-color:black;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+h2{
+    font-family:'Franklin Gothic Medium';
+    color:green
+}
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16;
+    color:white;
+}
+img{
+    position:absolute;
+    bottom:230px;
+    Right:10px;
+}
