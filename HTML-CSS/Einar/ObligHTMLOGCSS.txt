@@ -48,5 +48,5 @@ pre{
 img{
     position:absolute;
     bottom:230px;
-    Right:10px;
+    right:10px;
 }
