@@ -11,7 +11,7 @@
 
 
 <header>
-    <h1>Library of Bable</h1>
+    <h1>Library of Babel</h1>
 </header>
 
 <section>
