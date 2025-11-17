@@ -1,3 +1,12 @@
 body{
     background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+.container {
+  text-align: center;
+}
+/* jeg er klar over at font family og background ikke virker fordi jeg har allerede
+programmert det inn i html index filen. Jeg er også klar over at det er best å endre
+sånne ting i css. skrev det inn uansett for å vise at jeg er klar over det og for
+å svare på oppgavekravene*/ 
