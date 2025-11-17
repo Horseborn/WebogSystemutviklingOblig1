@@ -1,0 +1,17 @@
+body { 
+  background: rgba(223, 127, 30, 0.7)
+} 
+  
+.tekst { 
+  background: rgba(72, 71, 70, 0.7); 
+  box-shadow: -3px 3px 2px rgb(86, 78, 78); 
+  border-radius: 3px; 
+  color: #fff; 
+  font: 14px/24px "Source Code Pro", "Inconsolata", "Lucida Console", "Terminal", "Courier New", Courier; 
+  padding: 15px 15px; 
+  display: flex; 
+  flex-direction:column; 
+  justify-content:flex-start; 
+  align-items: stretch; gap: 3%; 
+  margin-bottom: 24px; 
+} 
